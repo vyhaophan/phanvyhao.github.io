@@ -1,6 +1,5 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "The codingverse of Phan Vy Hao"
 title_separator          : "-"
 name                     : &name "Phan V. Hao"
 description              : &description "personal description"
