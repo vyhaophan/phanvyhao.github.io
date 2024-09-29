@@ -1,0 +1,17 @@
+
+# Basic Site Settings
+locale                   : "en-US"
+title                    : "The codingverse of Phan Vy Hao"
+title_separator          : "-"
+name                     : &name "Phan V. Hao"
+description              : &description "personal description"
+url                      : phanvyhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "vyhaophan/phanvyhao.github.io"
+
+
+
+permissions:
+  id-token: write
+  pages: write
+  
